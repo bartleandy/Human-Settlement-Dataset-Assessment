@@ -1,13 +1,13 @@
 # Human-Settlement-Dataset-Assessment
 
-1. This repo holds Jupyter notebooks with a workflow to compare human settlement datasets for a given study site. These were developed for my MSc in GIS dissertation. For this work I developed a comparison framework to asses the reative capabilities of human settlement datasets in the Global South.
+1. This repo holds Jupyter notebooks with a workflow to compare human settlement datasets for a given study site. These were developed for my MSc in GIS dissertation. For this work, I developed a comparison framework to asses the relative capabilities of human settlement datasets in the Global South.
 
 2. The key research questions (RQ) investigated in my dissertation were:
    1. RQ 1: To what extent do high spatial detail human settlement datasets vary in a Global South setting?
    2. RQ 2: How do the datasets vary for different settlement landscape character?
    3. RQ 3: What factors may contribute to inter-map disagreement for these datasets?
 
-3. Avaiable Jupyter notebooks to answer these research questions include:
+3. Available Jupyter notebooks to answer these research questions include:
    1. Dataset pre-processing (transforms, clips, and reclassifies human settlement datasets).
    2. RQ 1: Non-site-specific variation between datasets (visual analysis of map and total classified area).
    3. RQ 1: Site-specific variation between datasets (inter-map agreement presented by error matrix).
