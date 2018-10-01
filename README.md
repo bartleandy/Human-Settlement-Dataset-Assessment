@@ -1,6 +1,6 @@
 # Human-Settlement-Dataset-Assessment
 
-1. This repo holds Jupyter notebooks offering a workflow to comapre human settlement datasets for a given study site. These were developed for my MSc in GIS dissertation. For this project I developed a comparison framework to asses the reative capabilities of human settlement datasets in the Global South.
+1. This repo holds Jupyter notebooks with a workflow to compare human settlement datasets for a given study site. These were developed for my MSc in GIS dissertation. For this work I developed a comparison framework to asses the reative capabilities of human settlement datasets in the Global South.
 
 2. The key research questions (RQ) investigated in my dissertation were:
    1. RQ 1: To what extent do high spatial detail human settlement datasets vary in a Global South setting?
@@ -17,7 +17,7 @@
    1. Datasets under test: Global Urban Footprint (GUF), Global Human Settlement Layer (GHSL), and High Resolution Settlement Layer (HRSL).
    2. Datasets included for comparison: OpenStreetMap VGI data (OSM VGI), GlobeLand30 (GL30), and MODIS 500m Map of Global Human Extent (MOD500).
 
-5. My dissertation abstract is copied below and full dissertation [included in the repo as a PDF.](../AB_human_settlement_dataset_assessment_dissertation_2017.pdf)
+5. My dissertation abstract is copied below and the full dissertation [provided here.](../AB_human_settlement_dataset_assessment_dissertation_2017.pdf)
 
    The spatial detail of automated human settlement mapping is advancing. New datasets utilise developments in computing power, high resolution satellite imagery, and novel detection approaches to classify settlements. These advancements create opportunities to apply the datasets to humanitarian settlement mapping.
 
