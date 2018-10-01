@@ -17,7 +17,7 @@
    1. Datasets under test: Global Urban Footprint (GUF), Global Human Settlement Layer (GHSL), and High Resolution Settlement Layer (HRSL).
    2. Datasets included for comparison: OpenStreetMap VGI data (OSM VGI), GlobeLand30 (GL30), and MODIS 500m Map of Global Human Extent (MOD500).
 
-5. My dissertation abstract is copied below and the full dissertation [provided here.](../AB_human_settlement_dataset_assessment_dissertation_2017.pdf)
+5. My dissertation abstract is copied below and the full dissertation [provided here.](https://github.com/bartleandy/Human-Settlement-Dataset-Assessment/blob/master/AB_human_settlement_dataset_assessment_dissertation_2017.pdf)
 
    The spatial detail of automated human settlement mapping is advancing. New datasets utilise developments in computing power, high resolution satellite imagery, and novel detection approaches to classify settlements. These advancements create opportunities to apply the datasets to humanitarian settlement mapping.
 
